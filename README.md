@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nicetocupro/MyLeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | undefined |
 | [0037-sudoku-solver](https://github.com/Nicetocupro/MyLeetCode/tree/main/0037-sudoku-solver/) | undefined |
 | [0142-linked-list-cycle-ii](https://github.com/Nicetocupro/MyLeetCode/tree/main/0142-linked-list-cycle-ii/) | undefined |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Nicetocupro/MyLeetCode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | undefined |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Nicetocupro/MyLeetCode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | undefined |
 | [1000240-M99OJA](https://github.com/Nicetocupro/MyLeetCode/tree/main/1000240-M99OJA/) | undefined |
 ## String
@@ -37,12 +38,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/Nicetocupro/MyLeetCode/tree/main/0079-word-search/) | undefined |
 | [0093-restore-ip-addresses](https://github.com/Nicetocupro/MyLeetCode/tree/main/0093-restore-ip-addresses/) | undefined |
 | [0214-shortest-palindrome](https://github.com/Nicetocupro/MyLeetCode/tree/main/0214-shortest-palindrome/) | undefined |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Nicetocupro/MyLeetCode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | undefined |
 | [0516-longest-palindromic-subsequence](https://github.com/Nicetocupro/MyLeetCode/tree/main/0516-longest-palindromic-subsequence/) | undefined |
 | [1250-longest-common-subsequence](https://github.com/Nicetocupro/MyLeetCode/tree/main/1250-longest-common-subsequence/) | undefined |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nicetocupro/MyLeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | undefined |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Nicetocupro/MyLeetCode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | undefined |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Nicetocupro/MyLeetCode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | undefined |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -215,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Nicetocupro/MyLeetCode/tree/main/0004-median-of-two-sorted-arrays/) | undefined |
 | [0053-maximum-subarray](https://github.com/Nicetocupro/MyLeetCode/tree/main/0053-maximum-subarray/) | undefined |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Nicetocupro/MyLeetCode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | undefined |
 | [100301-zui-xiao-de-kge-shu-lcof](https://github.com/Nicetocupro/MyLeetCode/tree/main/100301-zui-xiao-de-kge-shu-lcof/) | undefined |
 ## Bit Manipulation
 | Problem Name | Difficulty |
