@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1013-fibonacci-number](https://github.com/Nicetocupro/MyLeetCode/tree/main/1013-fibonacci-number/) | undefined |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Nicetocupro/MyLeetCode/tree/main/1951-find-the-winner-of-the-circular-game/) | undefined |
 | [100199-recursive-mulitply-lcci](https://github.com/Nicetocupro/MyLeetCode/tree/main/100199-recursive-mulitply-lcci/) | undefined |
+| [100277-qing-wa-tiao-tai-jie-wen-ti-lcof](https://github.com/Nicetocupro/MyLeetCode/tree/main/100277-qing-wa-tiao-tai-jie-wen-ti-lcof/) | undefined |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -189,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Nicetocupro/MyLeetCode/tree/main/1111-minimum-score-triangulation-of-polygon/) | undefined |
 | [1130-last-stone-weight-ii](https://github.com/Nicetocupro/MyLeetCode/tree/main/1130-last-stone-weight-ii/) | undefined |
 | [1250-longest-common-subsequence](https://github.com/Nicetocupro/MyLeetCode/tree/main/1250-longest-common-subsequence/) | undefined |
+| [100277-qing-wa-tiao-tai-jie-wen-ti-lcof](https://github.com/Nicetocupro/MyLeetCode/tree/main/100277-qing-wa-tiao-tai-jie-wen-ti-lcof/) | undefined |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -215,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1013-fibonacci-number](https://github.com/Nicetocupro/MyLeetCode/tree/main/1013-fibonacci-number/) | undefined |
+| [100277-qing-wa-tiao-tai-jie-wen-ti-lcof](https://github.com/Nicetocupro/MyLeetCode/tree/main/100277-qing-wa-tiao-tai-jie-wen-ti-lcof/) | undefined |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
