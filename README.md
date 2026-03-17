@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Nicetocupro/MyLeetCode/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | undefined |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Nicetocupro/MyLeetCode/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | undefined |
 | [0376-wiggle-subsequence](https://github.com/Nicetocupro/MyLeetCode/tree/main/0376-wiggle-subsequence/) | undefined |
+| [0416-partition-equal-subset-sum](https://github.com/Nicetocupro/MyLeetCode/tree/main/0416-partition-equal-subset-sum/) | undefined |
 | [0435-non-overlapping-intervals](https://github.com/Nicetocupro/MyLeetCode/tree/main/0435-non-overlapping-intervals/) | undefined |
 | [0502-ipo](https://github.com/Nicetocupro/MyLeetCode/tree/main/0502-ipo/) | undefined |
 | [0630-course-schedule-iii](https://github.com/Nicetocupro/MyLeetCode/tree/main/0630-course-schedule-iii/) | undefined |
@@ -158,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Nicetocupro/MyLeetCode/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | undefined |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Nicetocupro/MyLeetCode/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | undefined |
 | [0376-wiggle-subsequence](https://github.com/Nicetocupro/MyLeetCode/tree/main/0376-wiggle-subsequence/) | undefined |
+| [0416-partition-equal-subset-sum](https://github.com/Nicetocupro/MyLeetCode/tree/main/0416-partition-equal-subset-sum/) | undefined |
 | [0435-non-overlapping-intervals](https://github.com/Nicetocupro/MyLeetCode/tree/main/0435-non-overlapping-intervals/) | undefined |
 | [0516-longest-palindromic-subsequence](https://github.com/Nicetocupro/MyLeetCode/tree/main/0516-longest-palindromic-subsequence/) | undefined |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Nicetocupro/MyLeetCode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | undefined |
