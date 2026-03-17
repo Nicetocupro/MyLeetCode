@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Nicetocupro/MyLeetCode/tree/main/0102-binary-tree-level-order-traversal/) | undefined |
 | [0207-course-schedule](https://github.com/Nicetocupro/MyLeetCode/tree/main/0207-course-schedule/) | undefined |
+| [0365-water-and-jug-problem](https://github.com/Nicetocupro/MyLeetCode/tree/main/0365-water-and-jug-problem/) | undefined |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Nicetocupro/MyLeetCode/tree/main/0207-course-schedule/) | undefined |
+| [0365-water-and-jug-problem](https://github.com/Nicetocupro/MyLeetCode/tree/main/0365-water-and-jug-problem/) | undefined |
 ## Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -49,4 +51,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Nicetocupro/MyLeetCode/tree/main/0142-linked-list-cycle-ii/) | undefined |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0365-water-and-jug-problem](https://github.com/Nicetocupro/MyLeetCode/tree/main/0365-water-and-jug-problem/) | undefined |
 <!---LeetCode Topics End-->
