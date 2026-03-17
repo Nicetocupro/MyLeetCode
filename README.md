@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/Nicetocupro/MyLeetCode/tree/main/0079-word-search/) | undefined |
 | [0679-24-game](https://github.com/Nicetocupro/MyLeetCode/tree/main/0679-24-game/) | undefined |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/Nicetocupro/MyLeetCode/tree/main/2189-maximum-path-quality-of-a-graph/) | undefined |
+| [2657-minimum-time-to-complete-all-tasks](https://github.com/Nicetocupro/MyLeetCode/tree/main/2657-minimum-time-to-complete-all-tasks/) | undefined |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -85,4 +86,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/Nicetocupro/MyLeetCode/tree/main/0037-sudoku-solver/) | undefined |
 | [0079-word-search](https://github.com/Nicetocupro/MyLeetCode/tree/main/0079-word-search/) | undefined |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2657-minimum-time-to-complete-all-tasks](https://github.com/Nicetocupro/MyLeetCode/tree/main/2657-minimum-time-to-complete-all-tasks/) | undefined |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2657-minimum-time-to-complete-all-tasks](https://github.com/Nicetocupro/MyLeetCode/tree/main/2657-minimum-time-to-complete-all-tasks/) | undefined |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2657-minimum-time-to-complete-all-tasks](https://github.com/Nicetocupro/MyLeetCode/tree/main/2657-minimum-time-to-complete-all-tasks/) | undefined |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2657-minimum-time-to-complete-all-tasks](https://github.com/Nicetocupro/MyLeetCode/tree/main/2657-minimum-time-to-complete-all-tasks/) | undefined |
 <!---LeetCode Topics End-->
