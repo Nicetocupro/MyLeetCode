@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nicetocupro/MyLeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | undefined |
+| [0072-edit-distance](https://github.com/Nicetocupro/MyLeetCode/tree/main/0072-edit-distance/) | undefined |
 | [0079-word-search](https://github.com/Nicetocupro/MyLeetCode/tree/main/0079-word-search/) | undefined |
 | [0093-restore-ip-addresses](https://github.com/Nicetocupro/MyLeetCode/tree/main/0093-restore-ip-addresses/) | undefined |
 ## Sliding Window
@@ -136,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/Nicetocupro/MyLeetCode/tree/main/0045-jump-game-ii/) | undefined |
 | [0055-jump-game](https://github.com/Nicetocupro/MyLeetCode/tree/main/0055-jump-game/) | undefined |
+| [0072-edit-distance](https://github.com/Nicetocupro/MyLeetCode/tree/main/0072-edit-distance/) | undefined |
 | [0376-wiggle-subsequence](https://github.com/Nicetocupro/MyLeetCode/tree/main/0376-wiggle-subsequence/) | undefined |
 | [0435-non-overlapping-intervals](https://github.com/Nicetocupro/MyLeetCode/tree/main/0435-non-overlapping-intervals/) | undefined |
 <!---LeetCode Topics End-->
