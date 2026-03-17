@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Nicetocupro/MyLeetCode/tree/main/0207-course-schedule/) | undefined |
+| [2189-maximum-path-quality-of-a-graph](https://github.com/Nicetocupro/MyLeetCode/tree/main/2189-maximum-path-quality-of-a-graph/) | undefined |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -55,4 +56,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0365-water-and-jug-problem](https://github.com/Nicetocupro/MyLeetCode/tree/main/0365-water-and-jug-problem/) | undefined |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2189-maximum-path-quality-of-a-graph](https://github.com/Nicetocupro/MyLeetCode/tree/main/2189-maximum-path-quality-of-a-graph/) | undefined |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2189-maximum-path-quality-of-a-graph](https://github.com/Nicetocupro/MyLeetCode/tree/main/2189-maximum-path-quality-of-a-graph/) | undefined |
 <!---LeetCode Topics End-->
