@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Nicetocupro/MyLeetCode/tree/main/0096-unique-binary-search-trees/) | undefined |
 | [0102-binary-tree-level-order-traversal](https://github.com/Nicetocupro/MyLeetCode/tree/main/0102-binary-tree-level-order-traversal/) | undefined |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -17,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Nicetocupro/MyLeetCode/tree/main/0096-unique-binary-search-trees/) | undefined |
 | [0102-binary-tree-level-order-traversal](https://github.com/Nicetocupro/MyLeetCode/tree/main/0102-binary-tree-level-order-traversal/) | undefined |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -70,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Nicetocupro/MyLeetCode/tree/main/0096-unique-binary-search-trees/) | undefined |
 | [0365-water-and-jug-problem](https://github.com/Nicetocupro/MyLeetCode/tree/main/0365-water-and-jug-problem/) | undefined |
 | [0679-24-game](https://github.com/Nicetocupro/MyLeetCode/tree/main/0679-24-game/) | undefined |
 ## Array
@@ -150,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/Nicetocupro/MyLeetCode/tree/main/0045-jump-game-ii/) | undefined |
 | [0055-jump-game](https://github.com/Nicetocupro/MyLeetCode/tree/main/0055-jump-game/) | undefined |
 | [0072-edit-distance](https://github.com/Nicetocupro/MyLeetCode/tree/main/0072-edit-distance/) | undefined |
+| [0096-unique-binary-search-trees](https://github.com/Nicetocupro/MyLeetCode/tree/main/0096-unique-binary-search-trees/) | undefined |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nicetocupro/MyLeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | undefined |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Nicetocupro/MyLeetCode/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | undefined |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Nicetocupro/MyLeetCode/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | undefined |
@@ -170,4 +174,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0214-shortest-palindrome](https://github.com/Nicetocupro/MyLeetCode/tree/main/0214-shortest-palindrome/) | undefined |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Nicetocupro/MyLeetCode/tree/main/0096-unique-binary-search-trees/) | undefined |
 <!---LeetCode Topics End-->
