@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2189-maximum-path-quality-of-a-graph](https://github.com/Nicetocupro/MyLeetCode/tree/main/2189-maximum-path-quality-of-a-graph/) | undefined |
 | [2499-minimum-money-required-before-transactions](https://github.com/Nicetocupro/MyLeetCode/tree/main/2499-minimum-money-required-before-transactions/) | undefined |
 | [2657-minimum-time-to-complete-all-tasks](https://github.com/Nicetocupro/MyLeetCode/tree/main/2657-minimum-time-to-complete-all-tasks/) | undefined |
+| [100301-zui-xiao-de-kge-shu-lcof](https://github.com/Nicetocupro/MyLeetCode/tree/main/100301-zui-xiao-de-kge-shu-lcof/) | undefined |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -152,12 +153,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Nicetocupro/MyLeetCode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | undefined |
 | [2499-minimum-money-required-before-transactions](https://github.com/Nicetocupro/MyLeetCode/tree/main/2499-minimum-money-required-before-transactions/) | undefined |
 | [2657-minimum-time-to-complete-all-tasks](https://github.com/Nicetocupro/MyLeetCode/tree/main/2657-minimum-time-to-complete-all-tasks/) | undefined |
+| [100301-zui-xiao-de-kge-shu-lcof](https://github.com/Nicetocupro/MyLeetCode/tree/main/100301-zui-xiao-de-kge-shu-lcof/) | undefined |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0502-ipo](https://github.com/Nicetocupro/MyLeetCode/tree/main/0502-ipo/) | undefined |
 | [0630-course-schedule-iii](https://github.com/Nicetocupro/MyLeetCode/tree/main/0630-course-schedule-iii/) | undefined |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Nicetocupro/MyLeetCode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | undefined |
+| [100301-zui-xiao-de-kge-shu-lcof](https://github.com/Nicetocupro/MyLeetCode/tree/main/100301-zui-xiao-de-kge-shu-lcof/) | undefined |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -212,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Nicetocupro/MyLeetCode/tree/main/0004-median-of-two-sorted-arrays/) | undefined |
 | [0053-maximum-subarray](https://github.com/Nicetocupro/MyLeetCode/tree/main/0053-maximum-subarray/) | undefined |
+| [100301-zui-xiao-de-kge-shu-lcof](https://github.com/Nicetocupro/MyLeetCode/tree/main/100301-zui-xiao-de-kge-shu-lcof/) | undefined |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -224,4 +228,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Nicetocupro/MyLeetCode/tree/main/1951-find-the-winner-of-the-circular-game/) | undefined |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [100301-zui-xiao-de-kge-shu-lcof](https://github.com/Nicetocupro/MyLeetCode/tree/main/100301-zui-xiao-de-kge-shu-lcof/) | undefined |
 <!---LeetCode Topics End-->
