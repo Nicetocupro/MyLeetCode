@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0365-water-and-jug-problem](https://github.com/Nicetocupro/MyLeetCode/tree/main/0365-water-and-jug-problem/) | undefined |
 | [0679-24-game](https://github.com/Nicetocupro/MyLeetCode/tree/main/0679-24-game/) | undefined |
 | [1013-fibonacci-number](https://github.com/Nicetocupro/MyLeetCode/tree/main/1013-fibonacci-number/) | undefined |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Nicetocupro/MyLeetCode/tree/main/1951-find-the-winner-of-the-circular-game/) | undefined |
 | [100199-recursive-mulitply-lcci](https://github.com/Nicetocupro/MyLeetCode/tree/main/100199-recursive-mulitply-lcci/) | undefined |
 ## Array
 | Problem Name | Difficulty |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Nicetocupro/MyLeetCode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | undefined |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Nicetocupro/MyLeetCode/tree/main/1111-minimum-score-triangulation-of-polygon/) | undefined |
 | [1130-last-stone-weight-ii](https://github.com/Nicetocupro/MyLeetCode/tree/main/1130-last-stone-weight-ii/) | undefined |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Nicetocupro/MyLeetCode/tree/main/1951-find-the-winner-of-the-circular-game/) | undefined |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/Nicetocupro/MyLeetCode/tree/main/2189-maximum-path-quality-of-a-graph/) | undefined |
 | [2499-minimum-money-required-before-transactions](https://github.com/Nicetocupro/MyLeetCode/tree/main/2499-minimum-money-required-before-transactions/) | undefined |
 | [2657-minimum-time-to-complete-all-tasks](https://github.com/Nicetocupro/MyLeetCode/tree/main/2657-minimum-time-to-complete-all-tasks/) | undefined |
@@ -197,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1013-fibonacci-number](https://github.com/Nicetocupro/MyLeetCode/tree/main/1013-fibonacci-number/) | undefined |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Nicetocupro/MyLeetCode/tree/main/1951-find-the-winner-of-the-circular-game/) | undefined |
 | [100199-recursive-mulitply-lcci](https://github.com/Nicetocupro/MyLeetCode/tree/main/100199-recursive-mulitply-lcci/) | undefined |
 ## Memoization
 | Problem Name | Difficulty |
@@ -210,4 +213,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [100199-recursive-mulitply-lcci](https://github.com/Nicetocupro/MyLeetCode/tree/main/100199-recursive-mulitply-lcci/) | undefined |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Nicetocupro/MyLeetCode/tree/main/1951-find-the-winner-of-the-circular-game/) | undefined |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Nicetocupro/MyLeetCode/tree/main/1951-find-the-winner-of-the-circular-game/) | undefined |
 <!---LeetCode Topics End-->
