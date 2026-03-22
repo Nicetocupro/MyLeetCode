@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nicetocupro/MyLeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | undefined |
 | [0037-sudoku-solver](https://github.com/Nicetocupro/MyLeetCode/tree/main/0037-sudoku-solver/) | undefined |
 | [0049-group-anagrams](https://github.com/Nicetocupro/MyLeetCode/tree/main/0049-group-anagrams/) | undefined |
+| [0128-longest-consecutive-sequence](https://github.com/Nicetocupro/MyLeetCode/tree/main/0128-longest-consecutive-sequence/) | undefined |
 | [0142-linked-list-cycle-ii](https://github.com/Nicetocupro/MyLeetCode/tree/main/0142-linked-list-cycle-ii/) | undefined |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Nicetocupro/MyLeetCode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | undefined |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Nicetocupro/MyLeetCode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | undefined |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Nicetocupro/MyLeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | undefined |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nicetocupro/MyLeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | undefined |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Nicetocupro/MyLeetCode/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | undefined |
+| [0128-longest-consecutive-sequence](https://github.com/Nicetocupro/MyLeetCode/tree/main/0128-longest-consecutive-sequence/) | undefined |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Nicetocupro/MyLeetCode/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | undefined |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nicetocupro/MyLeetCode/tree/main/0215-kth-largest-element-in-an-array/) | undefined |
 | [0312-burst-balloons](https://github.com/Nicetocupro/MyLeetCode/tree/main/0312-burst-balloons/) | undefined |
@@ -257,4 +259,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nicetocupro/MyLeetCode/tree/main/0215-kth-largest-element-in-an-array/) | undefined |
 | [100301-zui-xiao-de-kge-shu-lcof](https://github.com/Nicetocupro/MyLeetCode/tree/main/100301-zui-xiao-de-kge-shu-lcof/) | undefined |
+## Union Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Nicetocupro/MyLeetCode/tree/main/0128-longest-consecutive-sequence/) | undefined |
 <!---LeetCode Topics End-->
