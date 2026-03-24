@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nicetocupro/MyLeetCode/tree/main/0005-longest-palindromic-substring/) | undefined |
 | [0142-linked-list-cycle-ii](https://github.com/Nicetocupro/MyLeetCode/tree/main/0142-linked-list-cycle-ii/) | undefined |
+| [0283-move-zeroes](https://github.com/Nicetocupro/MyLeetCode/tree/main/0283-move-zeroes/) | undefined |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/Nicetocupro/MyLeetCode/tree/main/0128-longest-consecutive-sequence/) | undefined |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Nicetocupro/MyLeetCode/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | undefined |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nicetocupro/MyLeetCode/tree/main/0215-kth-largest-element-in-an-array/) | undefined |
+| [0283-move-zeroes](https://github.com/Nicetocupro/MyLeetCode/tree/main/0283-move-zeroes/) | undefined |
 | [0312-burst-balloons](https://github.com/Nicetocupro/MyLeetCode/tree/main/0312-burst-balloons/) | undefined |
 | [0376-wiggle-subsequence](https://github.com/Nicetocupro/MyLeetCode/tree/main/0376-wiggle-subsequence/) | undefined |
 | [0416-partition-equal-subset-sum](https://github.com/Nicetocupro/MyLeetCode/tree/main/0416-partition-equal-subset-sum/) | undefined |
