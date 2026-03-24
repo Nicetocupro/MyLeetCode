@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Nicetocupro/MyLeetCode/tree/main/0005-longest-palindromic-substring/) | undefined |
+| [0011-container-with-most-water](https://github.com/Nicetocupro/MyLeetCode/tree/main/0011-container-with-most-water/) | undefined |
 | [0142-linked-list-cycle-ii](https://github.com/Nicetocupro/MyLeetCode/tree/main/0142-linked-list-cycle-ii/) | undefined |
 | [0283-move-zeroes](https://github.com/Nicetocupro/MyLeetCode/tree/main/0283-move-zeroes/) | undefined |
 ## Math
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Nicetocupro/MyLeetCode/tree/main/0001-two-sum/) | undefined |
 | [0004-median-of-two-sorted-arrays](https://github.com/Nicetocupro/MyLeetCode/tree/main/0004-median-of-two-sorted-arrays/) | undefined |
+| [0011-container-with-most-water](https://github.com/Nicetocupro/MyLeetCode/tree/main/0011-container-with-most-water/) | undefined |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Nicetocupro/MyLeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | undefined |
 | [0037-sudoku-solver](https://github.com/Nicetocupro/MyLeetCode/tree/main/0037-sudoku-solver/) | undefined |
 | [0045-jump-game-ii](https://github.com/Nicetocupro/MyLeetCode/tree/main/0045-jump-game-ii/) | undefined |
@@ -147,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Nicetocupro/MyLeetCode/tree/main/0011-container-with-most-water/) | undefined |
 | [0045-jump-game-ii](https://github.com/Nicetocupro/MyLeetCode/tree/main/0045-jump-game-ii/) | undefined |
 | [0055-jump-game](https://github.com/Nicetocupro/MyLeetCode/tree/main/0055-jump-game/) | undefined |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Nicetocupro/MyLeetCode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | undefined |
