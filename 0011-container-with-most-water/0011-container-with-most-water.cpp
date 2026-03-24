@@ -8,7 +8,6 @@ public:
         while(left < right)
         {
             int tempArea = min(height[left], height[right]) * (right - left);
-            std::cout << height[left] << " " << height[right] << std::endl;
             maxArea = max(maxArea, tempArea);
             if(height[left] < height[right])
             {
