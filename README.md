@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/Nicetocupro/MyLeetCode/tree/main/0142-linked-list-cycle-ii/) | undefined |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Nicetocupro/MyLeetCode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | undefined |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Nicetocupro/MyLeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | undefined |
+| [0560-subarray-sum-equals-k](https://github.com/Nicetocupro/MyLeetCode/tree/main/0560-subarray-sum-equals-k/) | undefined |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Nicetocupro/MyLeetCode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | undefined |
 | [1000240-M99OJA](https://github.com/Nicetocupro/MyLeetCode/tree/main/1000240-M99OJA/) | undefined |
 ## String
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/Nicetocupro/MyLeetCode/tree/main/0416-partition-equal-subset-sum/) | undefined |
 | [0435-non-overlapping-intervals](https://github.com/Nicetocupro/MyLeetCode/tree/main/0435-non-overlapping-intervals/) | undefined |
 | [0502-ipo](https://github.com/Nicetocupro/MyLeetCode/tree/main/0502-ipo/) | undefined |
+| [0560-subarray-sum-equals-k](https://github.com/Nicetocupro/MyLeetCode/tree/main/0560-subarray-sum-equals-k/) | undefined |
 | [0630-course-schedule-iii](https://github.com/Nicetocupro/MyLeetCode/tree/main/0630-course-schedule-iii/) | undefined |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Nicetocupro/MyLeetCode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | undefined |
 | [0679-24-game](https://github.com/Nicetocupro/MyLeetCode/tree/main/0679-24-game/) | undefined |
@@ -279,4 +281,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Nicetocupro/MyLeetCode/tree/main/0042-trapping-rain-water/) | undefined |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Nicetocupro/MyLeetCode/tree/main/0560-subarray-sum-equals-k/) | undefined |
 <!---LeetCode Topics End-->
