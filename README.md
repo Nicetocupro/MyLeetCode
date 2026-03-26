@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nicetocupro/MyLeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | undefined |
+| [0239-sliding-window-maximum](https://github.com/Nicetocupro/MyLeetCode/tree/main/0239-sliding-window-maximum/) | undefined |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Nicetocupro/MyLeetCode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | undefined |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Nicetocupro/MyLeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | undefined |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Nicetocupro/MyLeetCode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | undefined |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/Nicetocupro/MyLeetCode/tree/main/0128-longest-consecutive-sequence/) | undefined |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Nicetocupro/MyLeetCode/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | undefined |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nicetocupro/MyLeetCode/tree/main/0215-kth-largest-element-in-an-array/) | undefined |
+| [0239-sliding-window-maximum](https://github.com/Nicetocupro/MyLeetCode/tree/main/0239-sliding-window-maximum/) | undefined |
 | [0283-move-zeroes](https://github.com/Nicetocupro/MyLeetCode/tree/main/0283-move-zeroes/) | undefined |
 | [0312-burst-balloons](https://github.com/Nicetocupro/MyLeetCode/tree/main/0312-burst-balloons/) | undefined |
 | [0376-wiggle-subsequence](https://github.com/Nicetocupro/MyLeetCode/tree/main/0376-wiggle-subsequence/) | undefined |
@@ -191,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nicetocupro/MyLeetCode/tree/main/0215-kth-largest-element-in-an-array/) | undefined |
+| [0239-sliding-window-maximum](https://github.com/Nicetocupro/MyLeetCode/tree/main/0239-sliding-window-maximum/) | undefined |
 | [0502-ipo](https://github.com/Nicetocupro/MyLeetCode/tree/main/0502-ipo/) | undefined |
 | [0630-course-schedule-iii](https://github.com/Nicetocupro/MyLeetCode/tree/main/0630-course-schedule-iii/) | undefined |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Nicetocupro/MyLeetCode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | undefined |
@@ -262,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/Nicetocupro/MyLeetCode/tree/main/0239-sliding-window-maximum/) | undefined |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Nicetocupro/MyLeetCode/tree/main/1951-find-the-winner-of-the-circular-game/) | undefined |
 ## Simulation
 | Problem Name | Difficulty |
@@ -285,4 +289,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Nicetocupro/MyLeetCode/tree/main/0560-subarray-sum-equals-k/) | undefined |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/Nicetocupro/MyLeetCode/tree/main/0239-sliding-window-maximum/) | undefined |
 <!---LeetCode Topics End-->
