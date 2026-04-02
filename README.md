@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Nicetocupro/MyLeetCode/tree/main/0001-two-sum/) | undefined |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nicetocupro/MyLeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | undefined |
 | [0037-sudoku-solver](https://github.com/Nicetocupro/MyLeetCode/tree/main/0037-sudoku-solver/) | undefined |
+| [0041-first-missing-positive](https://github.com/Nicetocupro/MyLeetCode/tree/main/0041-first-missing-positive/) | undefined |
 | [0049-group-anagrams](https://github.com/Nicetocupro/MyLeetCode/tree/main/0049-group-anagrams/) | undefined |
 | [0076-minimum-window-substring](https://github.com/Nicetocupro/MyLeetCode/tree/main/0076-minimum-window-substring/) | undefined |
 | [0128-longest-consecutive-sequence](https://github.com/Nicetocupro/MyLeetCode/tree/main/0128-longest-consecutive-sequence/) | undefined |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Nicetocupro/MyLeetCode/tree/main/0011-container-with-most-water/) | undefined |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Nicetocupro/MyLeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | undefined |
 | [0037-sudoku-solver](https://github.com/Nicetocupro/MyLeetCode/tree/main/0037-sudoku-solver/) | undefined |
+| [0041-first-missing-positive](https://github.com/Nicetocupro/MyLeetCode/tree/main/0041-first-missing-positive/) | undefined |
 | [0042-trapping-rain-water](https://github.com/Nicetocupro/MyLeetCode/tree/main/0042-trapping-rain-water/) | undefined |
 | [0045-jump-game-ii](https://github.com/Nicetocupro/MyLeetCode/tree/main/0045-jump-game-ii/) | undefined |
 | [0046-permutations](https://github.com/Nicetocupro/MyLeetCode/tree/main/0046-permutations/) | undefined |
