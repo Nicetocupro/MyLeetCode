@@ -130,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/Nicetocupro/MyLeetCode/tree/main/0215-kth-largest-element-in-an-array/) | undefined |
 | [0238-product-of-array-except-self](https://github.com/Nicetocupro/MyLeetCode/tree/main/0238-product-of-array-except-self/) | undefined |
 | [0239-sliding-window-maximum](https://github.com/Nicetocupro/MyLeetCode/tree/main/0239-sliding-window-maximum/) | undefined |
+| [0240-search-a-2d-matrix-ii](https://github.com/Nicetocupro/MyLeetCode/tree/main/0240-search-a-2d-matrix-ii/) | undefined |
 | [0283-move-zeroes](https://github.com/Nicetocupro/MyLeetCode/tree/main/0283-move-zeroes/) | undefined |
 | [0312-burst-balloons](https://github.com/Nicetocupro/MyLeetCode/tree/main/0312-burst-balloons/) | undefined |
 | [0376-wiggle-subsequence](https://github.com/Nicetocupro/MyLeetCode/tree/main/0376-wiggle-subsequence/) | undefined |
@@ -164,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/Nicetocupro/MyLeetCode/tree/main/0048-rotate-image/) | undefined |
 | [0073-set-matrix-zeroes](https://github.com/Nicetocupro/MyLeetCode/tree/main/0073-set-matrix-zeroes/) | undefined |
 | [0079-word-search](https://github.com/Nicetocupro/MyLeetCode/tree/main/0079-word-search/) | undefined |
+| [0240-search-a-2d-matrix-ii](https://github.com/Nicetocupro/MyLeetCode/tree/main/0240-search-a-2d-matrix-ii/) | undefined |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -189,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Nicetocupro/MyLeetCode/tree/main/0004-median-of-two-sorted-arrays/) | undefined |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Nicetocupro/MyLeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | undefined |
+| [0240-search-a-2d-matrix-ii](https://github.com/Nicetocupro/MyLeetCode/tree/main/0240-search-a-2d-matrix-ii/) | undefined |
 | [2657-minimum-time-to-complete-all-tasks](https://github.com/Nicetocupro/MyLeetCode/tree/main/2657-minimum-time-to-complete-all-tasks/) | undefined |
 ## Sorting
 | Problem Name | Difficulty |
@@ -270,6 +273,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/Nicetocupro/MyLeetCode/tree/main/0004-median-of-two-sorted-arrays/) | undefined |
 | [0053-maximum-subarray](https://github.com/Nicetocupro/MyLeetCode/tree/main/0053-maximum-subarray/) | undefined |
 | [0215-kth-largest-element-in-an-array](https://github.com/Nicetocupro/MyLeetCode/tree/main/0215-kth-largest-element-in-an-array/) | undefined |
+| [0240-search-a-2d-matrix-ii](https://github.com/Nicetocupro/MyLeetCode/tree/main/0240-search-a-2d-matrix-ii/) | undefined |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Nicetocupro/MyLeetCode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | undefined |
 | [100301-zui-xiao-de-kge-shu-lcof](https://github.com/Nicetocupro/MyLeetCode/tree/main/100301-zui-xiao-de-kge-shu-lcof/) | undefined |
 ## Bit Manipulation
