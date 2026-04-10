@@ -6,32 +6,25 @@
  *     ListNode(int x) : val(x), next(NULL) {}
  * };
  */
+
 class Solution {
 public:
     bool hasCycle(ListNode *head) {
         // 快慢指针 或者 set
-        if(head == nullptr)
+        std::unordered_set<ListNode*> mySet;
+        ListNode* temp = head;
+        while(temp != nullptr)
         {
-            return false;
-        }
-
-        ListNode* slow = head;
-        ListNode* fast = head->next;
-
-        while(slow != nullptr && fast != nullptr)
-        {
-            if(slow == fast)
+            if(!mySet.contains(temp))
+            {
+                mySet.insert(temp);
+            }
+            else
             {
                 return true;
             }
-            slow = slow->next;
-            fast = fast->next;
-            if(fast != nullptr)
-            {
-                fast = fast->next;
-            }
+            temp = temp->next;
         }
-
         return false;
     }
 };
