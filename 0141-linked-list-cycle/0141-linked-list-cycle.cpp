@@ -10,20 +10,28 @@ class Solution {
 public:
     bool hasCycle(ListNode *head) {
         // 快慢指针 或者 set
-        std::set<ListNode*> mySet;
-        ListNode* temp = head;
-        while(temp != nullptr)
+        if(head == nullptr)
         {
-            if(!mySet.contains(temp))
-            {
-                mySet.insert(temp);
-            }
-            else
+            return false;
+        }
+
+        ListNode* slow = head;
+        ListNode* fast = head->next;
+
+        while(slow != nullptr && fast != nullptr)
+        {
+            if(slow == fast)
             {
                 return true;
             }
-            temp = temp->next;
+            slow = slow->next;
+            fast = fast->next;
+            if(fast != nullptr)
+            {
+                fast = fast->next;
+            }
         }
+
         return false;
     }
 };
