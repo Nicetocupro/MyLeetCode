@@ -23,7 +23,7 @@ public:
             temp += lastNum;
             lastNum = temp / 10;
             temp = temp % 10;
-            result = '0' + temp + result;
+            result = char('0' + temp) + result;
             step++;
         }
         if(lastNum)
