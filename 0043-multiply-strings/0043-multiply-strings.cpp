@@ -26,9 +26,10 @@ public:
             result = char('0' + temp) + result;
             step++;
         }
+
         if(lastNum)
         {
-            result = std::to_string(lastNum) + result;
+            result = char('0' + lastNum) + result;
         }
 
         return result;
