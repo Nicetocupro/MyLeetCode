@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/Nicetocupro/MyLeetCode/tree/main/0073-set-matrix-zeroes/) | undefined |
 | [0076-minimum-window-substring](https://github.com/Nicetocupro/MyLeetCode/tree/main/0076-minimum-window-substring/) | undefined |
 | [0128-longest-consecutive-sequence](https://github.com/Nicetocupro/MyLeetCode/tree/main/0128-longest-consecutive-sequence/) | undefined |
+| [0141-linked-list-cycle](https://github.com/Nicetocupro/MyLeetCode/tree/main/0141-linked-list-cycle/) | undefined |
 | [0142-linked-list-cycle-ii](https://github.com/Nicetocupro/MyLeetCode/tree/main/0142-linked-list-cycle-ii/) | undefined |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Nicetocupro/MyLeetCode/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | undefined |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Nicetocupro/MyLeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | undefined |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/Nicetocupro/MyLeetCode/tree/main/0141-linked-list-cycle/) | undefined |
 | [0142-linked-list-cycle-ii](https://github.com/Nicetocupro/MyLeetCode/tree/main/0142-linked-list-cycle-ii/) | undefined |
 | [0148-sort-list](https://github.com/Nicetocupro/MyLeetCode/tree/main/0148-sort-list/) | undefined |
 | [0206-reverse-linked-list](https://github.com/Nicetocupro/MyLeetCode/tree/main/0206-reverse-linked-list/) | undefined |
@@ -97,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/Nicetocupro/MyLeetCode/tree/main/0005-longest-palindromic-substring/) | undefined |
 | [0011-container-with-most-water](https://github.com/Nicetocupro/MyLeetCode/tree/main/0011-container-with-most-water/) | undefined |
 | [0042-trapping-rain-water](https://github.com/Nicetocupro/MyLeetCode/tree/main/0042-trapping-rain-water/) | undefined |
+| [0141-linked-list-cycle](https://github.com/Nicetocupro/MyLeetCode/tree/main/0141-linked-list-cycle/) | undefined |
 | [0142-linked-list-cycle-ii](https://github.com/Nicetocupro/MyLeetCode/tree/main/0142-linked-list-cycle-ii/) | undefined |
 | [0148-sort-list](https://github.com/Nicetocupro/MyLeetCode/tree/main/0148-sort-list/) | undefined |
 | [0234-palindrome-linked-list](https://github.com/Nicetocupro/MyLeetCode/tree/main/0234-palindrome-linked-list/) | undefined |
