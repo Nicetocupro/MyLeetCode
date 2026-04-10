@@ -10,6 +10,8 @@ public:
         string result = "";
         int step = 0;
         int lastNum = 0;
+        result.reserve(num1.size() + num2.size());
+         
         while(step <= num1.size() + num2.size() - 2)
         {
             int temp = 0;
