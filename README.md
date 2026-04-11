@@ -88,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Nicetocupro/MyLeetCode/tree/main/0002-add-two-numbers/) | undefined |
 | [0021-merge-two-sorted-lists](https://github.com/Nicetocupro/MyLeetCode/tree/main/0021-merge-two-sorted-lists/) | undefined |
 | [0141-linked-list-cycle](https://github.com/Nicetocupro/MyLeetCode/tree/main/0141-linked-list-cycle/) | undefined |
 | [0142-linked-list-cycle-ii](https://github.com/Nicetocupro/MyLeetCode/tree/main/0142-linked-list-cycle-ii/) | undefined |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Nicetocupro/MyLeetCode/tree/main/0002-add-two-numbers/) | undefined |
 | [0043-multiply-strings](https://github.com/Nicetocupro/MyLeetCode/tree/main/0043-multiply-strings/) | undefined |
 | [0048-rotate-image](https://github.com/Nicetocupro/MyLeetCode/tree/main/0048-rotate-image/) | undefined |
 | [0096-unique-binary-search-trees](https://github.com/Nicetocupro/MyLeetCode/tree/main/0096-unique-binary-search-trees/) | undefined |
@@ -277,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Nicetocupro/MyLeetCode/tree/main/0002-add-two-numbers/) | undefined |
 | [0021-merge-two-sorted-lists](https://github.com/Nicetocupro/MyLeetCode/tree/main/0021-merge-two-sorted-lists/) | undefined |
 | [0206-reverse-linked-list](https://github.com/Nicetocupro/MyLeetCode/tree/main/0206-reverse-linked-list/) | undefined |
 | [0234-palindrome-linked-list](https://github.com/Nicetocupro/MyLeetCode/tree/main/0234-palindrome-linked-list/) | undefined |
