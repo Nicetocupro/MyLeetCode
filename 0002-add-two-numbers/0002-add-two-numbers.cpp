@@ -48,7 +48,7 @@ public:
         }
         else 
         {
-            temp->next == nullptr;
+            temp->next = nullptr;
         }
         
         return result->next;
