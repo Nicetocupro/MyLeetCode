@@ -165,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/Nicetocupro/MyLeetCode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | undefined |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/Nicetocupro/MyLeetCode/tree/main/1111-minimum-score-triangulation-of-polygon/) | undefined |
 | [1130-last-stone-weight-ii](https://github.com/Nicetocupro/MyLeetCode/tree/main/1130-last-stone-weight-ii/) | undefined |
+| [1675-magnetic-force-between-two-balls](https://github.com/Nicetocupro/MyLeetCode/tree/main/1675-magnetic-force-between-two-balls/) | undefined |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Nicetocupro/MyLeetCode/tree/main/1951-find-the-winner-of-the-circular-game/) | undefined |
 | [2189-maximum-path-quality-of-a-graph](https://github.com/Nicetocupro/MyLeetCode/tree/main/2189-maximum-path-quality-of-a-graph/) | undefined |
 | [2499-minimum-money-required-before-transactions](https://github.com/Nicetocupro/MyLeetCode/tree/main/2499-minimum-money-required-before-transactions/) | undefined |
@@ -215,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/Nicetocupro/MyLeetCode/tree/main/0004-median-of-two-sorted-arrays/) | undefined |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Nicetocupro/MyLeetCode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | undefined |
 | [0240-search-a-2d-matrix-ii](https://github.com/Nicetocupro/MyLeetCode/tree/main/0240-search-a-2d-matrix-ii/) | undefined |
+| [1675-magnetic-force-between-two-balls](https://github.com/Nicetocupro/MyLeetCode/tree/main/1675-magnetic-force-between-two-balls/) | undefined |
 | [2657-minimum-time-to-complete-all-tasks](https://github.com/Nicetocupro/MyLeetCode/tree/main/2657-minimum-time-to-complete-all-tasks/) | undefined |
 ## Sorting
 | Problem Name | Difficulty |
@@ -227,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0502-ipo](https://github.com/Nicetocupro/MyLeetCode/tree/main/0502-ipo/) | undefined |
 | [0630-course-schedule-iii](https://github.com/Nicetocupro/MyLeetCode/tree/main/0630-course-schedule-iii/) | undefined |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Nicetocupro/MyLeetCode/tree/main/0632-smallest-range-covering-elements-from-k-lists/) | undefined |
+| [1675-magnetic-force-between-two-balls](https://github.com/Nicetocupro/MyLeetCode/tree/main/1675-magnetic-force-between-two-balls/) | undefined |
 | [2499-minimum-money-required-before-transactions](https://github.com/Nicetocupro/MyLeetCode/tree/main/2499-minimum-money-required-before-transactions/) | undefined |
 | [2657-minimum-time-to-complete-all-tasks](https://github.com/Nicetocupro/MyLeetCode/tree/main/2657-minimum-time-to-complete-all-tasks/) | undefined |
 | [100301-zui-xiao-de-kge-shu-lcof](https://github.com/Nicetocupro/MyLeetCode/tree/main/100301-zui-xiao-de-kge-shu-lcof/) | undefined |
