@@ -19,22 +19,17 @@ public:
     Node* copyRandomList(Node* head) {
         Node dummy(0);
         Node* newTemp = &dummy;
-        Node* prev = &dummy;
         Node* temp = head;
         std::unordered_map<Node*, Node*> myMap;
 
         while(temp != nullptr)
         {
             newTemp->next = new Node(temp->val);
-            prev->next = newTemp->next;
 
             myMap[temp] = newTemp->next;
             temp = temp->next;
             newTemp = newTemp->next;
-            prev = prev->next;
         }
-
-        newTemp->next = nullptr;
 
         newTemp = dummy.next;
         temp = head;
