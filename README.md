@@ -92,7 +92,7 @@
 | ✅ | 138 | [随机链表的复制](https://leetcode.cn/problems/copy-list-with-random-pointer/) | 🟡 | 2026-04-13 |
 | ✅ | 148 | [排序链表](https://leetcode.cn/problems/sort-list/) | 🟡 | 2026-04-13 |
 | ✅ | 23 | [合并 K 个升序链表](https://leetcode.cn/problems/merge-k-sorted-lists/) | 🔴 | 2026-04-13 |
-| ⬜ | 146 | [LRU 缓存](https://leetcode.cn/problems/lru-cache/) | 🟡 | |
+| ✅ | 146 | [LRU 缓存](https://leetcode.cn/problems/lru-cache/) | 🟡 | |
 
 ---
 
@@ -100,7 +100,7 @@
 
 | 状态 | 题号 | 题目 | 难度 | 完成日期 |
 |---|---|---|---|---|
-| ⬜ | 94 | [二叉树的中序遍历](https://leetcode.cn/problems/binary-tree-inorder-traversal/) | 🟢 | |
+| ✅ | 94 | [二叉树的中序遍历](https://leetcode.cn/problems/binary-tree-inorder-traversal/) | 🟢 | |
 | ⬜ | 104 | [二叉树的最大深度](https://leetcode.cn/problems/maximum-depth-of-binary-tree/) | 🟢 | |
 | ⬜ | 226 | [翻转二叉树](https://leetcode.cn/problems/invert-binary-tree/) | 🟢 | |
 | ⬜ | 101 | [对称二叉树](https://leetcode.cn/problems/symmetric-tree/) | 🟢 | |
