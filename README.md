@@ -101,9 +101,9 @@
 | 状态 | 题号 | 题目 | 难度 | 完成日期 |
 |---|---|---|---|---|
 | ✅ | 94 | [二叉树的中序遍历](https://leetcode.cn/problems/binary-tree-inorder-traversal/) | 🟢 | |
-| ⬜ | 104 | [二叉树的最大深度](https://leetcode.cn/problems/maximum-depth-of-binary-tree/) | 🟢 | |
-| ⬜ | 226 | [翻转二叉树](https://leetcode.cn/problems/invert-binary-tree/) | 🟢 | |
-| ⬜ | 101 | [对称二叉树](https://leetcode.cn/problems/symmetric-tree/) | 🟢 | |
+| ✅ | 104 | [二叉树的最大深度](https://leetcode.cn/problems/maximum-depth-of-binary-tree/) | 🟢 | |
+| ✅ | 226 | [翻转二叉树](https://leetcode.cn/problems/invert-binary-tree/) | 🟢 | |
+| ✅ | 101 | [对称二叉树](https://leetcode.cn/problems/symmetric-tree/) | 🟢 | |
 | ⬜ | 543 | [二叉树的直径](https://leetcode.cn/problems/diameter-of-binary-tree/) | 🟢 | |
 | ⬜ | 102 | [二叉树的层序遍历](https://leetcode.cn/problems/binary-tree-level-order-traversal/) | 🟡 | |
 | ⬜ | 108 | [将有序数组转换为二叉搜索树](https://leetcode.cn/problems/convert-sorted-array-to-binary-search-tree/) | 🟢 | |
